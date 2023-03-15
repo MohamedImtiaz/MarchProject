@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="34549" started-at="2023-02-26T00:10:35 IST" finished-at="2023-02-26T00:11:09 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="34549" started-at="2023-02-26T00:10:35 IST" finished-at="2023-02-26T00:11:09 IST">
+      <class name="org.cross.greens">
+        <test-method status="PASS" signature="tc2(java.lang.String)[pri:0, instance:org.cross.greens@1d7a715]" name="tc2" duration-ms="12491" started-at="2023-02-26T00:10:35 IST" data-provider="login" finished-at="2023-02-26T00:10:47 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[9176758053]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+        <test-method status="PASS" signature="tc2(java.lang.String)[pri:0, instance:org.cross.greens@1d7a715]" name="tc2" duration-ms="9764" started-at="2023-02-26T00:10:47 IST" data-provider="login" finished-at="2023-02-26T00:10:57 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[8056275314]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+        <test-method status="PASS" signature="tc2(java.lang.String)[pri:0, instance:org.cross.greens@1d7a715]" name="tc2" duration-ms="12191" started-at="2023-02-26T00:10:57 IST" data-provider="login" finished-at="2023-02-26T00:11:09 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[9941067609]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+      </class> <!-- org.cross.greens -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
